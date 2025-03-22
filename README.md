@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Nishanth R 👋</h1>
 
 <p align="center">
-  <img src="[https://avatars.githubusercontent.com/u/your-github-id?v=4](https://media.licdn.com/dms/image/v2/D5603AQGIEJw_-3P12A/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1718604082303?e=1747872000&v=beta&t=SOMcOaUfuADm9PxSEK08uSq5qBXnzcHWheE_9qNAa4Q)" 
+  <img src="https://gravatar.com/avatar/28ae07e75fb02685128f899c91438ce4?size=256" 
        alt="Nishanth R" width="150" style="border-radius: 50%;">
 </p>
 
